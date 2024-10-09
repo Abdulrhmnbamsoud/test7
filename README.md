@@ -1,0 +1,1 @@
+In this project, we will create a CBOW model using a sample Arabic traffic corpus. The corpus consists of sentences describing various traffic scenarios. The goal of the CBOW model is to predict a target word based on its surrounding context words.
